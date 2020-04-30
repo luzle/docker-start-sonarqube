@@ -1,0 +1,1 @@
+clover,false,sonar-clover-plugin-4.1.jar|42abff6d07714d44b56e449d841a356f
